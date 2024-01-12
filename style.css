@@ -1,0 +1,44 @@
+/* Add your custom styles here */
+body {
+    
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+}
+
+.social-theme {
+    color: #0077B5; /* LinkedIn blue color */
+}
+
+.social-theme:hover {
+    color: #24292e; /* Darker color on hover */
+}
+
+.university-icon {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.card-text {
+    color: #555;
+}
+
